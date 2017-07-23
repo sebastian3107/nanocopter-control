@@ -1,0 +1,59 @@
+﻿Der Buildvorgang wurde am 14.09.2015 13:08:35 gestartet.
+     1>Projekt "C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\objectTracking_v0.7\objectTracking_v0.7.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\objectTracking_nanocopter.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv2411\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv2411\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): Siehe Deklaration von 'fopen'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(53): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'const int', möglicher Datenverlust
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(143): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'sprintf'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(213): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(214): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(315): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(321): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\dropbox\dokumente\visual studio 2010\projects\objecttracking_nanocopter\objecttracking_v0.7\main.cpp(359): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): Siehe Deklaration von 'getch'
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\Debug\objectTracking_nanocopter.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv2411\build\x86\vc10\lib opencv_core2411d.lib opencv_imgproc2411d.lib opencv_highgui2411d.lib opencv_ml2411d.lib opencv_video2411d.lib opencv_features2d2411d.lib opencv_calib3d2411d.lib opencv_core2411.lib opencv_imgproc2411.lib opencv_highgui2411.lib opencv_ml2411.lib opencv_video2411.lib opencv_features2d2411.lib opencv_calib3d2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\objectTracking_nanocopter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\Debug\objectTracking_nanocopter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\Debug\objectTracking_nanocopter.lib" /MACHINE:X86 Debug\objectTracking_nanocopter.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\objectTracking_nanocopter.exe.embed.manifest" /manifest Debug\objectTracking_nanocopter.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         objectTracking_v0.7.vcxproj -> C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\Debug\objectTracking_nanocopter.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\objectTracking_nanocopter.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\objectTracking_nanocopter.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Sebastian\Dropbox\Dokumente\Visual Studio 2010\Projects\objectTracking_nanocopter\objectTracking_v0.7\objectTracking_v0.7.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:17.25
